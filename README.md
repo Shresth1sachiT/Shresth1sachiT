@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shresth1sachiT
-- 👀 I’m interested in software programming
+- 👀 I’m interested in Electronics and AI systems
 - 🌱 I’m currently pursuing bachelors degree in electronics communication and information engineering 
-- 💞️ I’m looking to collaborate on projects related to python, c, c++ etc
+- 💞️ I’m looking to collaborate on projects related to Robotics, communication system, AI/ML and hardware integration project
 - 📫 How to reach me ...
 
 <!---
